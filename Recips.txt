@@ -5,4 +5,7 @@ kheer
 pasta
 Chicken fry
 
+beans
+pizza
+
 thank you
